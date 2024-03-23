@@ -1,4 +1,6 @@
-<head>
+<!DOCTYPE html>
+<html>
+  <head>
 	<title>Privacy Policies</title>
 </head>
 <body>
@@ -48,3 +50,5 @@
 	<h1>Your Consent</h1>
 	<p>By accessing our app and using it on a continued basis, you expressly consent and confirm to CM Player collecting, maintaining, using, processing and disclosing your Personal and User Information in accordance with this Privacy Policy.</p>
 </body>
+
+</html>
